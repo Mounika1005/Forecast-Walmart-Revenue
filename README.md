@@ -31,4 +31,4 @@ Using Times Seried Analytics in R, forecast Walmarts' Revenue
 #  Repository Content
 * R file with the Code to forecast
 * Word file with explanation
-* Omages of the output
+* Images of the output
